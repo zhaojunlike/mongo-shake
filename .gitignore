@@ -21,3 +21,4 @@ diagnostic/
 *.pid
 src/vendor/
 !vendor.json
+conf/fitone.conf
